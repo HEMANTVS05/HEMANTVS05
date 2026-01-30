@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hemant 👋
 
-<!--
-**HEMANTVS05/HEMANTVS05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Skills: Python, HTML, CSS, JavaScript  
+🔧 Tools: Git, GitHub  
+🧠 Interests: Problem Solving, Automation  
+🤖 Currently learning **AI & Automation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm focusing on now
+- Python scripting & automation
+- Learning AI fundamentals
+- Building small but useful tools
+- Improving logic & problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+- Python 🐍
+- HTML / CSS / JavaScript 🌐
+- Git & GitHub 🔗
+
+---
+
+## 📫 Connect with me
+- Gmail: vshemant05@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hemant-vs/
