@@ -55,5 +55,5 @@ Currently, I am **transitioning my focus toward AI and automation**, aiming to b
 ---
 
 ## 📫 Connect With Me
-
+- Gmail: vshemant05@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hemant-vs/
