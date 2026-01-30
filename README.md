@@ -1,4 +1,4 @@
-                                                                # Hi, I'm Hemant 👋
+  # Hi, I'm Hemant 👋
 
 🎓 Computer Science & Engineering student  
 🤖 AI & Automation Learner  
